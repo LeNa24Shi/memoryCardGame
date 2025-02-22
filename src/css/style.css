@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  margin: 20px auto;
+  width: 80%; 
+  background-color: #2E5077;
+  color: #fff;
+  text-align: center;
+  font-family: Genos;
+}
